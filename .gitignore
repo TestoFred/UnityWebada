@@ -1,0 +1,17 @@
+Library/
+Temp/
+Logs/
+Obj/
+UserSettings/
+Build/
+Builds/
+
+.vs/
+.gradle/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
