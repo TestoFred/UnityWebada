@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class ScriptPrueba : MonoBehaviour
 {
-    float jugadorvelocidad = 2f;
+    float jugadorvelocidad = 5f;
     
     void Start()
     {
